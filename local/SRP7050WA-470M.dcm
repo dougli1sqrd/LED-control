@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRP7050WA-470M
+D Ind,7.9x7.3x5.2mm,47uH+/-20%,3.2A,shd
+K
+F https://g.componentsearchengine.com/Datasheets/0/17601810.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AL8843SP-13")(type "KiCad")(uri "${KIPRJMOD}/local/AL8843SP-13.kicad_sym")(options "")(descr ""))
+  (lib (name "local")(type "KiCad")(uri "${KIPRJMOD}/local/local.kicad_sym")(options "")(descr ""))
+  (lib (name "LMR51420XDDCR")(type "KiCad")(uri "${KIPRJMOD}/local/LMR51420XDDCR.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AL8843SP-13
+D  Wide Input Voltage Range: 4.5V to 40V  Output Current up to 3A  Internal 40V NDMOS Switch  Typical 4% Output Current Accuracy  Single Pin for On/Off and Brightness Control by DC Voltage or PWM Signal  Recommended Analog Dimming Range: 10% to 100%  Soft-Start  High Efficiency (Up to 97%)  LED Short Protection  Inherent Open-Circuit LED Protection  Over Temperature Protection (OTP)  Up to 1MHz Switching Frequency  SO-8EP Package Available in Green Molding Compound (No Br, Sb)  To
+K
+F https://www.diodes.com//assets/Datasheets/AL8843.pdf
+$ENDCMP
+#
+#End Doc Library
